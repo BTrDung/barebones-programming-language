@@ -4,7 +4,7 @@ Barebones programming language is a low level language which includes only basic
 
 ## Introduction 
 
-Version 1.0.0 
+![version](https://img.shields.io/badge/version%20-1.0.0-brightgreen%20)
 
 ## How i create barebones 
 
@@ -26,10 +26,9 @@ Two simple sample barebones programs are provided in the "examples" subdirectory
 
 > ```./bb ./examples/test1.bb```
 
-### Require
+### Requirements
 `g++ 9.3.0` or later
 
 
 ## Installation
-
 ```g++```: [Download](https://gcc.gnu.org/)
