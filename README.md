@@ -11,7 +11,7 @@ Syntax trees are data structures widely used in compilers to represent the struc
 
 ![alt text](https://github.com/BTrDung/Complex/blob/master/BBLang/198661149_968732063958275_4394586345187106564_n.png)
 ## How to run program
-Clone my git:
+Clone my repo:
 
 > ```git clone https://github.com/BTrDung/barebones-language.git```
 
@@ -28,7 +28,7 @@ Two simple sample barebones programs are provided in the "examples" subdirectory
 
 > ```./bb ./examples/test1.bb```
 
-### Requirements
+## Requirements
 `g++ 9.3.0` or later
 
 
