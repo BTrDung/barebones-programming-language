@@ -8,6 +8,7 @@ Barebones programming language is a low level language which includes only basic
 
 ## How i create barebones 
 
+![alt text](https://github.com/BTrDung/Complex/blob/master/BBLang/198661149_968732063958275_4394586345187106564_n.png)
 ## How to run program
 Clone my git:
 
