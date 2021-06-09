@@ -11,17 +11,25 @@ Version 1.0.0
 ## How to run program
 Clone my git:
 
-```git clone https://github.com/BTrDung/barebones-language.git```
+> ```git clone https://github.com/BTrDung/barebones-language.git```
 
 Run command in your terminal: 
 
-```g++ barebones.cpp -o bb;```
+> ```g++ barebones.cpp -o bb;```
 
 Run barebones by using ```./bb``` and link to your file ```*.bb```
 
-```./bb ./examples/test.bb```
+> ```./bb ./examples/test.bb```
+
+## Examples barebones program
+Two simple sample barebones programs are provided in the "examples" subdirectory. ```test1.bb``` will compute A + B. For example, to compute A + B:
+
+> ```./bb ./examples/test1.bb```
 
 ### Require
 `g++ 9.3.0` or later
 
+
 ## Installation
+
+```g++```: [Download](https://gcc.gnu.org/)
