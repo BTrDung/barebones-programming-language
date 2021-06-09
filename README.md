@@ -9,4 +9,4 @@ Barebones programming language is a low level language which includes only basic
 ## How to run program
 
 ### Require
-g++ 9.3.0 or later
+`g++ 9.3.0` or later
