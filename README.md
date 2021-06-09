@@ -6,7 +6,8 @@ Barebones programming language is a low level language which includes only basic
 
 ![version](https://img.shields.io/badge/version%20-1.0.0-brightgreen%20)
 
-## How i create barebones 
+## How syntax tree of barebones look like?
+Syntax trees are data structures widely used in compilers to represent the structure of program code. ... It often serves as an intermediate representation of the program through several stages that the compiler requires, and has a strong impact on the final output of the compiler
 
 ![alt text](https://github.com/BTrDung/Complex/blob/master/BBLang/198661149_968732063958275_4394586345187106564_n.png)
 ## How to run program
