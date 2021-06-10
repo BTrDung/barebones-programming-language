@@ -31,4 +31,4 @@ Two simple sample barebones programs are provided in the "examples" subdirectory
 
 
 ## Installation
-```g++```: [Download](https://gcc.gnu.org/)
+`chmod +x g++_download.sh && ./g++_download`
