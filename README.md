@@ -16,9 +16,9 @@ Clone my repo:
 
 > ```git clone https://github.com/BTrDung/barebones-language.git```
 
-Compile and executive barebone command using your file in your terminal: 
+Compile and executive barebone command using your own `link-to-file` in your terminal: 
 
-> ```g++ barebones.cpp -o bb && ./bb < ./examples/test.bb```
+> `chmod +x run.sh && ./run $link-to-file$`
 
 
 ## Examples barebones program
